@@ -1,0 +1,8 @@
+setup.py
+Estudo_modulo.egg-info/PKG-INFO
+Estudo_modulo.egg-info/SOURCES.txt
+Estudo_modulo.egg-info/dependency_links.txt
+Estudo_modulo.egg-info/top_level.txt
+pacote_calculadora/__init__.py
+pacote_calculadora/calculadora.py
+venv/__init__.py
